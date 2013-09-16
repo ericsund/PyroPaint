@@ -1,0 +1,58 @@
+--- Pyro Paint v1.0 ---
+
+Pyro Paint is a minimalistic graphical drawing program originally started by Eric Sund
+Copyright (C) 2013  Eric Sund
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+
+
+See License.txt for more information.
+
+Pyro Paint was written as a simple experiment.  Commits from initial developer
+may be limited.  Please clone http://www.github.com/Altazon/PyroPaint/ for updates.
+
+Contact:  Eric Sund; epsund@tormail.org
+
+
+--- INSTALLATION INSTRUCTIONS FOR PYRO PAINT ---
+
+1.  Pyro Paint requires particular dependencies along with version 2.7 of the Python language.  Download the
+    required modules for use with Pyro Paint according to your operating system.
+
+    ---> EasyGUI 0.96:  http://easygui.sourceforge.net/download/version_0.96/index.html
+    ---> Pygame 1.9.1:  http://www.pygame.org/download.shtml
+    ---> Python 2.7:    http://www.python.org/getit/
+    
+    These links are for your information.  The source files for Pygame and EasyGUI are included, unmodified, in
+    /modules/EasyGUI and /modules/Pygame.
+   
+2.  This next step applies to both libraries.  Extract the contents from the archive containing the source.  Open
+    a Terminal window, and navigate to the directory that the extrction is contained in.  Type:
+    
+    cd /directory/to/extraction
+    python setup.py install
+  
+    Sometimes you are required to have root privileges to run setup.py.  Append the above command on to "sudo" in
+    Linux, or run Command Prompt as an Administrator in Windows.  Please see the documentation on these modules
+    for full installation support.
+    
+3.  Ensure the Pyro Paint folder configuration is unmodified before starting the software.  /imgs is required for displaying
+    images.  Launch "PyroPaint.py" graphically or, type "python PyroPaint.py" in a Terminal window inside the directory.
+    
+
+Enjoy!
+
+If you have any issues or questions with installation, email epsund@tormail.org for assitance.
