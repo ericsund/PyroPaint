@@ -26,7 +26,7 @@ Pyro Paint was written as a simple experiment.  Commits from initial developer
 may be limited.  Please clone http://www.github.com/Altazon/PyroPaint/ for updates.
 
 Contact:  Eric Sund
-	  epsund@tormail.org
+	  epsund@e2esolution.com
 """
 
 import pygame, pygame.locals, sys, easygui
