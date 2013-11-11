@@ -16,14 +16,23 @@ Contact: Eric Sund; epsund@e2esolution.org
 --- v.10 Features ---
 
 >  Draw with a "pencil" or "straight edge"
+
 >  Change utensil size to presets or custom size
+
 >  Change drawing colour with with a colour picker
+
 >  Diplay colour picked in a circle under the colour picker
+
 >  Apply preset or custom coloured tint to canvas
+
 >  Use three different stamps from a menu
+
 >  Erase markings from the canvas
+
 >  Create a blank canvas
+
 >  Open an existing canvas
+
 >  Save current canvas as an image to the filesystem (.png default format)
 
 --- Refrences ---
