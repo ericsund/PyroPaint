@@ -1,7 +1,7 @@
 PYRO PAINT v.1.0
 ---
 
-Pyro Paint is a minimalistic graphical drawing program originally started by Eric Sund Copyright (C) 2013 Eric Sund
+Pyro Paint is a minimalistic graphical drawing program originally started by Eric Sund Copyright (C) 2014 Eric Sund
 
 
 
