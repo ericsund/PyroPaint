@@ -11,7 +11,7 @@ See the GNU General Public License for more details.  You should have received a
 See License.txt for more information.
 
 
-Contact: Eric Sund; epsund@e2esolution.org
+Contact: Eric Sund; ericsund@pyroh.tk
 
 --- v.10 Features ---
 
