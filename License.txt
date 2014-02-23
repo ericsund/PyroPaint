@@ -1,4 +1,4 @@
-Pyro Paint v1.0, Copyright (C) 2013 Eric Sund
+Pyro Paint v1.0, Copyright (C) 2014 Eric Sund
 Pyro Paint comes with ABSOLUTELY NO WARRANTY.  This is free software, and you are welcome to redistribute it under certain conditions found below.
 
 
@@ -25,10 +25,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 See License.txt for more information.
 
-Pyro Paint was written as a simple experiment.  Commits from initial developer
-may be limited.  Please clone http://www.github.com/Altazon/PyroPaint/ for updates.
-
-Contact:  Eric Sund; epsund@e2esolution.com
+Contact:  Eric Sund; ericsund@pyroh.tk
 
 
 
