@@ -22,11 +22,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 See License.txt for more information.
 
-Pyro Paint was written as a simple experiment.  Commits from initial developer
-may be limited.  Please clone http://www.github.com/Altazon/PyroPaint/ for updates.
-
-Contact:  Eric Sund
-	  ericsund@ericsund.tk
+Pyro Paint was written as a simple experiment.
 """
 
 import pygame, pygame.locals, sys, easygui
@@ -314,11 +310,3 @@ while 1:
                                         changingAuto = False
                                         usingTools = False
                                         draw_type = ("pencil")
-
-"""
-Please leave this here.  For use with original developer.
-
-Times told to stop by Dad: 5
-Times told to stop by Mom: 2
-Total times told to stop coding: 7
-"""
