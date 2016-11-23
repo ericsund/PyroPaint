@@ -2,7 +2,7 @@
 --- Pyro Paint v1.0 ---
 
 Pyro Paint is a minimalistic graphical drawing program
-Copyright (C) 2014  Eric Sund
+Copyright (C) 2016  Eric Sund
 
 This program is free software; you can redistribute it and/or
 modify it under the terms of the GNU General Public License
@@ -19,10 +19,7 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 
-
 See License.txt for more information.
-
-Pyro Paint was written as a simple experiment.
 """
 
 import pygame, pygame.locals, sys, easygui
