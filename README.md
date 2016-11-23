@@ -1,7 +1,9 @@
 PYRO PAINT v.1.0
 ---
+(c) 2016 Eric Sund
 
 Pyro Paint is a minimalistic graphical drawing program
+
 
 *v.10 Features*
 
